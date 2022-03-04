@@ -1,0 +1,9 @@
+Email Id Write up
+
+STEP 1:Instantiate the main class and import the scanner packages
+
+STEP 2:Instantiate the process that is in the main method
+
+STEP 3:once the correct mail id is typed by the user it will check the condition from the main method 
+
+STEP 4:once the email id that is given by the user satisfies the condition it will compile and gives the result either valid or not

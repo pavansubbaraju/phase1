@@ -1,0 +1,5 @@
+STEP 1: Instantiate the  main class
+STEP 2:  Declare a i,j variable and declare the Scanner class. 
+STEP 3: Initialize two numbers and the operator 
+STEP 4: The Condition starts initializing into loop
+STEP 5: Once the correct case is reached, the loop is terminated, and compiler prints the result
