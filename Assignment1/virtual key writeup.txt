@@ -1,0 +1,6 @@
+Virtual key
+	STEP 1: Import Arrays, ArrayList and Collections packages                  and instantiate the static main method
+	STEP 2: Public class is created Directory is given
+	STEP 3:Switch Cases are created with identity number to                  select the options
+	STEP 4:File can be added to the directory and by the                  swithch method
+	Step 5:If the option does matches any of the statement                 default statement is printed
